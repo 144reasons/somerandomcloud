@@ -1,3 +1,4 @@
+<body style="background-color:powderblue;">
 <h1 align="center">Hi 👋, I'm Samu</h1>
 <h3 align="center">A student studying Software Engineering</h3>
 
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somerandomcloud&show_icons=true&theme=dark&locale=en" alt="somerandomcloud" /></p>
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+</body>
