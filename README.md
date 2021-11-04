@@ -5,6 +5,8 @@
   - 🔭 I’m currently working on **my website <a href="https://icodeinassembly.xyz">(Click me)</a>!**
 
 - 🌱 I’m currently learning **Javascript, and plan to learn about Python and AI**
+  
+- 💡 I love working on **open-source projects**
 
 - 💬 Ask me about **Javascript or Linux!**
 
