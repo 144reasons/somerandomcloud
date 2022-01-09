@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samu</h1>
 <h3 align="center">A student studying Software Engineering</h3>
 
-  - 🔭 I’m currently working on **my website <a href="https://icodeinassembly.xyz">(Click me)</a>!**
+  - 🔭 I’m currently working on **my IndianPoker repos</a>!**
 
 - 🌱 I’m currently learning **Javascript, and plan to learn about Python and AI**
   
