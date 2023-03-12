@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript or Linux!**
 
-- 📫 How to reach me **ICodeInAssembly#7117 on Discord**
+- 📫 How to reach me **Samu!#7117 on Discord**
 
 - ⚡ Fun fact **I made my first npm package 15/07/2021!**
 
